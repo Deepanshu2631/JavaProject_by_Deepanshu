@@ -31,3 +31,6 @@ public class JDBC {
 			}
 	}
 }
+
+//create table CUSTOMER (AC_NO varchar2(15) primary key , NAME VARCHAR2(25), PHONE_NO number(10),CITY VARCHAR2(25) ,TOTAL_BAL NUMBER(10,2), aadhar_No varchar2(12) );
+
